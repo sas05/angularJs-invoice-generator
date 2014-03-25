@@ -1,0 +1,32 @@
+/* app css stylesheet */
+
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.invisible-invoice-input input{
+    background-color: #FFFFFF;
+    background-image: none;
+    border: 1px solid #FFFFFF;
+    border-radius: 0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0) inset;
+    display: inline;
+    padding: 0;
+    color: #000000;
+    margin: 0;
+    line-height: 20px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.invisible-invoice-input-gray input{
+    background-color: #FAFAFA;
+    border: 1px solid #FAFAFA;
+}
+
+.align-right{
+    text-align:right;
+}
